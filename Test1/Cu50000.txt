@@ -1,0 +1,24 @@
+OBJECT Codeunit 50000 GT Test 1
+{
+  OBJECT-PROPERTIES
+  {
+    Date=07/01/18;
+    Time=12:02:06 PM;
+    Modified=Yes;
+    Version List=;
+  }
+  PROPERTIES
+  {
+    OnRun=BEGIN
+            MESSAGE('This is a Github Test');
+          END;
+
+  }
+  CODE
+  {
+
+    BEGIN
+    END.
+  }
+}
+
