@@ -13,7 +13,6 @@ OBJECT Codeunit 50000 GT Test 1
             MESSAGE('This is a Github Test');
             Message('This is added after Cloning');
           END;
-
   }
   CODE
   {
