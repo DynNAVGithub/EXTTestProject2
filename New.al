@@ -9,6 +9,10 @@ table 50005 MyTable
             DataClassification = ToBeClassified;
             
         }
+        field(5;Description;Text [50])
+        {
+            DataClassification = ToBeClassified;
+        }
     }
     
     keys
