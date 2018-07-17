@@ -11,6 +11,7 @@ OBJECT Codeunit 50000 GT Test 1
   {
     OnRun=BEGIN
             MESSAGE('This is a Github Test');
+            Message('This is added after Cloning');
           END;
 
   }
